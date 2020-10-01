@@ -9,10 +9,10 @@ from your own contact applications.
 Your menu-driven program must look like: 
 ```
 Welcome to DBC's Contact List App
-Press 1 to add a new contact
-Press 2 to view all contacts
-Press 3 to search for a contact
-Press 4 to delete a contact
+1.Press 1 to add a new contact
+2.Press 2 to view all contacts
+3.Press 3 to search for a contact
+4.Press 4 to delete a contact
 Press 5 to exit program 
 ```
 
